@@ -17,8 +17,8 @@ Projects I am working on:
 * :racing_car: Formula 1
 
 Projects I have worked on:
-Deep Learning in Digestive Disease Detection
+* Deep Learning in Digestive Disease Detection
 
-Skin microbiome solutions for Psoriasis patients
+* Skin microbiome solutions for Psoriasis patients
 
 
