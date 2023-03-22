@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zoran. Welcome to my page</h1>
-<h3 align="center">I like to analyse things #Data Analyst</h3>
-
-<h3 align="center">Hello! I am Zoran! Welcome to my page!</h3>
-
-<h3 align="center">I just finished Le Wagon's 10 Week Data Science Bootcamp! :man_cartwheeling:</h3>
-
-<h3 align="center">I am new to coding and looking forward to many exciting projects ahead!</h3>
+<h3 align="left">I like to analyse things #Data Analyst</h3>
+<h3 align="left">I just finished Le Wagon's 10 Week Data Science Bootcamp! :man_cartwheeling:</h3>
+<h3 align="left">I am new to coding and looking forward to many exciting projects ahead!</h3>
 
 Data subjects I am interested in:
 * :microscope:	Bioinformatics: DNA, Spatial Transcriptomics, Evolutionary Genomics, Nutritional epigenetics, Neuro epigenetics and genomics
